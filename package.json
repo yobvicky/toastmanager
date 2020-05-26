@@ -2,6 +2,7 @@
   "name": "toastmanager",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@carbon/icons-react": "^10.11.0",
     "@testing-library/jest-dom": "^4.2.4",
